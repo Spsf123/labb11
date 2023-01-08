@@ -17,7 +17,6 @@ int main (){
 	}
 	dest << "-------------------- HA!! ---------------------";
 
-
     source.close();
     dest.close();
 	return 0;
